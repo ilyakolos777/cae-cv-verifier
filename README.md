@@ -1,6 +1,8 @@
 # cae-cv-verifier
 Курсовой проект по предмету Компьютерные системы конечноэлементных расчётов
 
+[![Tests & Coverage](https://github.com/ilyakolos777/cae-cv-verifier/actions/workflows/python-app.yml/badge.svg)](https://github.com/ilyakolos777/cae-cv-verifier/actions/workflows/python-app.yml)
+
 #  CAE-CV Verifier: Система верификации конечноэлементных расчетов
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
